@@ -1,4 +1,4 @@
-A responsive homepage of google
+A responsive Google homepage
 
 Technologies Used - HTML and CSS
 
